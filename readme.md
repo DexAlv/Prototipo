@@ -5,5 +5,5 @@
 
 - # Para compilar
 ```bash
-    g++ -o leervideo leervideo.cpp `pkg-config --cflags --libs opencv4`
+    g++ -o leervidio leervidio.cpp `pkg-config --cflags --libs opencv4`
 ```
